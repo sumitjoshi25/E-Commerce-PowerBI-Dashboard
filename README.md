@@ -1,5 +1,7 @@
 # E-Commerce Power BI Dashboard
 
+![Dashboard Preview](./E-Commerce.png)
+
 ## Project Overview
 
 This project presents an interactive Power BI dashboard for analyzing e-commerce sales performance. The dashboard helps understand revenue trends, profit performance, customer behavior, product category performance, and regional sales insights.
