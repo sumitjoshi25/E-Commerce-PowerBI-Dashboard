@@ -1,6 +1,6 @@
 # E-Commerce Power BI Dashboard
 
-![Dashboard Preview](./E-Commerce.png)
+![Dashboard Preview](./dashboard_preview.png)
 
 ## Project Overview
 
@@ -51,7 +51,7 @@ The objective of this project is to analyze e-commerce business data and identif
 
 The Power BI dashboard file is available here:
 
-[e commerce.pbix](./e%20commerce.pbix)
+[e_commerce_dashboard.pbix](./e_commerce_dashboard.pbix)
 
 ## Author
 
